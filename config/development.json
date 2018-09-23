@@ -1,0 +1,6 @@
+{
+  "name" : "HS App - Development",
+  "mail" : {
+    "host" : "dev-mail-server"
+  }
+}
